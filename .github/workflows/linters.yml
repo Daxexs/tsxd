@@ -1,4 +1,4 @@
-name: linter ruff
+name: Linters
 
 on:
   push:
